@@ -1,0 +1,114 @@
+[
+  {
+    "Quarter": 1,
+    "Price": 53,
+    "Kwh": 2,
+    "cycles": 100,
+    "Batteries": 2000,
+    "Revenue": 21200000,
+    "__EMPTY": 21200000
+  },
+  {
+    "Quarter": 2,
+    "Price": 53,
+    "Kwh": 1.9,
+    "cycles": 100,
+    "Batteries": 1950,
+    "Revenue": 19636499.999999996,
+    "__EMPTY": 40836500
+  },
+  {
+    "Quarter": 3,
+    "Price": 53,
+    "Kwh": 1.8,
+    "cycles": 100,
+    "Batteries": 1900,
+    "Revenue": 18126000,
+    "__EMPTY": 58962500
+  },
+  {
+    "Quarter": 4,
+    "Price": 53,
+    "Kwh": 1.7,
+    "cycles": 100,
+    "Batteries": 1850,
+    "Revenue": 16668500,
+    "__EMPTY": 75631000
+  },
+  {
+    "Quarter": 5,
+    "Price": 53,
+    "Kwh": 1.6,
+    "cycles": 75,
+    "Batteries": 1800,
+    "Revenue": 11448000.000000002,
+    "__EMPTY": 87079000
+  },
+  {
+    "Quarter": 6,
+    "Price": 53,
+    "Kwh": 1.5,
+    "cycles": 75,
+    "Batteries": 1750,
+    "Revenue": 10434375,
+    "__EMPTY": 97513375
+  },
+  {
+    "Quarter": 7,
+    "Price": 53,
+    "Kwh": 1.4,
+    "cycles": 75,
+    "Batteries": 1700,
+    "Revenue": 9460499.999999998,
+    "__EMPTY": 106973875
+  },
+  {
+    "Quarter": 8,
+    "Price": 53,
+    "Kwh": 1.3,
+    "cycles": 75,
+    "Batteries": 1650,
+    "Revenue": 8526375,
+    "__EMPTY": 115500250
+  },
+  {
+    "Quarter": 9,
+    "Price": 53,
+    "Kwh": 1.2,
+    "cycles": 75,
+    "Batteries": 1600,
+    "Revenue": 7632000,
+    "__EMPTY": 123132250
+  },
+  {
+    "Quarter": 10,
+    "Price": 53,
+    "Kwh": 1.1,
+    "cycles": 75,
+    "Batteries": 1550,
+    "Revenue": 6777375,
+    "__EMPTY": 129909625
+  },
+  {
+    "Quarter": 11,
+    "Price": 53,
+    "Kwh": 1,
+    "cycles": 75,
+    "Batteries": 1500,
+    "Revenue": 5962500,
+    "__EMPTY": 135872125
+  },
+  {
+    "Quarter": 12,
+    "Price": 53,
+    "Kwh": 0.9,
+    "cycles": 75,
+    "Batteries": 1450,
+    "Revenue": 5187375,
+    "__EMPTY": 141059500
+  },
+  {
+    "Revenue": 141059500,
+    "__EMPTY": " "
+  }
+]

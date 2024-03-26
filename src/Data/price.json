@@ -1,0 +1,67 @@
+[
+  {
+    "label": "0",
+    "revenue": 7,
+    "cost" : 0
+  },
+  {
+      "label": "3",
+      "revenue": 6.5,
+      "cost" : 0
+    },
+    {
+      "label": "6",
+      "revenue": 7.5,
+      "cost" : 0
+    },
+    {
+      "label": "9",
+      "revenue": 5.5,
+      "cost" : 0
+    },
+    {
+      "label": "12",
+      "revenue": 6.5,
+      "cost" : 0
+    },
+    {
+      "label": "15",
+      "revenue": 7,
+      "cost" : 0
+    },
+    {
+      "label": "18",
+      "revenue": 6.5,
+      "cost" : 0
+    },
+    {
+      "label": "21",
+      "revenue": 7,
+      "cost" : 0
+    },
+    {
+      "label": "24",
+      "revenue": 6.5,
+      "cost" : 0
+    },
+    {
+      "label": "27",
+      "revenue": 7.5,
+      "cost" : 0
+    },
+    {
+      "label": "30",
+      "revenue": 6,
+      "cost" : 0
+    },
+    {
+      "label": "33",
+      "revenue": 6.5,
+      "cost" : 0
+    },
+    {
+      "label": "36",
+      "revenue": 6.5,
+      "cost" : 0
+    }
+]

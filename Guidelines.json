@@ -1,0 +1,50 @@
+[
+  {
+    "2000": 2,
+    "Total BP's": "Bp capacity (kWh)"
+  },
+  {
+    "2000": 1000,
+    "Total BP's": "Battery Life Cycles"
+  },
+  {
+    "2000": 30000,
+    "Total BP's": "Cost"
+  },
+  {
+    "2000": 55000,
+    "Total BP's": "BreakEven"
+  },
+  {
+    "2000": 65000,
+    "Total BP's": "Target"
+  },
+  {
+    "2000": 1000,
+    "Total BP's": "Battery Life Cycles"
+  },
+  {
+    "2000": 2,
+    "Total BP's": "BP Charge over lifetime (MWh)"
+  },
+  {
+    "2000": 1.5,
+    "Total BP's": "Actual Battery Life (MWh)"
+  },
+  {
+    "2000": 7,
+    "Total BP's": "Avg Elec Cost/kWh Rs."
+  },
+  {
+    "2000": 14000,
+    "Total BP's": "Total Charging cost over lieftime Rs."
+  },
+  {
+    "2000": 46,
+    "Total BP's": "Breakeven Price/kWh"
+  },
+  {
+    "2000": 53,
+    "Total BP's": "Target Price/kWh"
+  }
+]

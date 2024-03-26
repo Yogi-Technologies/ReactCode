@@ -1,0 +1,33 @@
+[
+    {
+      "label": "0",
+      "revenue": 7,
+      "cost" : 0
+    },
+    {
+        "label": "3",
+        "revenue": 9,
+        "cost" : 0
+      },
+      {
+        "label": "6",
+        "revenue": 10,
+        "cost" : 0
+      },
+      {
+        "label": "9",
+        "revenue": 12,
+        "cost" : 0
+      },
+      {
+        "label": "12",
+        "revenue": 10,
+        "cost" : 0
+      },
+      {
+        "label": "15"
+      },
+      {
+        "label": "18"
+      }
+]

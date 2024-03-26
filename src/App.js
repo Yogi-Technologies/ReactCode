@@ -1,23 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import SideBar from './components/SideBar'
+import MainDash from './components/MainDash/MainDash';
+import MainChart from './components/MainChart/MainChart';
+
 
 function App() {
+  const chartData = {
+    series: [
+      {
+        name: 'Series 1',
+        data: [30, 40, 35, 50, 49, 60, 70, 91],
+      },
+      // Add more series if needed
+    ],
+    categories: [
+      '2018-09-19T00:00:00.000Z',
+      '2018-09-19T01:30:00.000Z',
+      '2018-09-19T02:30:00.000Z',
+      '2018-09-19T03:30:00.000Z',
+      '2018-09-19T04:30:00.000Z',
+      '2018-09-19T05:30:00.000Z',
+      '2018-09-19T06:30:00.000Z',
+    ],
+  };
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+        <div className='AppGlass'>
+          
+          <SideBar/>
+          {/* <MainChart/> */}
+          
+          <MainChart param={chartData} />
+          
+          <MainDash/>
+          
+        </div>
     </div>
   );
 }

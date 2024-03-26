@@ -1,0 +1,41 @@
+[
+  {
+    "Quarter": 1,
+    "Price": 47,
+    "Kwh": 2,
+    "cycles": 100,
+    "Batteries": 2000,
+    "Revenue": 18800000,
+    "__EMPTY": 21200000
+  },
+  {
+    "Quarter": 2,
+    "Price": 49,
+    "Kwh": 1.9,
+    "cycles": 100,
+    "Batteries": 1950,
+    "Revenue": 18154500,
+    "__EMPTY": 39354500
+  },
+  {
+    "Quarter": 3,
+    "Price": 54,
+    "Kwh": 1.8,
+    "cycles": 100,
+    "Batteries": 1900,
+    "Revenue": 18468000,
+    "__EMPTY": 57822500
+  },
+  {
+    "Quarter": 4,
+    "Price": 53,
+    "Kwh": 1.7,
+    "cycles": 100,
+    "Batteries": 1850,
+    "Revenue": 16668500,
+    "__EMPTY": 74491000
+  },
+  {
+    "__EMPTY": " "
+  }
+]

@@ -1,0 +1,16 @@
+@media screen and (max-width: 1200px) {
+    .card .custom-card {
+      top: 2rem;
+      height: 45vh;
+      left: 6rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .card .custom-card {
+      top: 8rem;
+      height: 50%;
+      left: 25px;
+      width: 80%;
+    }
+  }

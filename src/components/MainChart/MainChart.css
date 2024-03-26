@@ -1,0 +1,54 @@
+
+.MainChart {
+    padding: 20px;
+    background-color: #f3c6f1 20.85%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px auto;
+    width: 85%;
+    transform: translate(-4%,2%);
+    display:grid;
+    /* grid-template-columns: 10% 50% auto; */
+
+  }
+  
+  .MainChart h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  /* @media screen and (max-width: 1200px) {
+    .MainChart{
+      grid-template-columns: 10% 50% auto;
+      overflow-y: scroll;
+    } 
+  } */
+  
+  @media (max-width: 768px) {
+    .MainChart{
+      grid-template-columns: 10% 50% auto;
+      width: 75%;
+      height:auto;
+      display:block;
+      align-items: center;
+      justify-content: center;
+      padding:5%;
+      margin-top: 5%;
+      margin-left: -25%;
+    } 
+  }
+
+  @media (max-width: 468px) {
+    .MainChart{
+      grid-template-columns: 10% 50% auto;
+      width: 55%;
+      height:auto;
+      display:block;
+      align-items: center;
+      justify-content: center;
+      padding:5%;
+      margin-top: 5%;
+      margin-left: -25%;
+      /* padding: 10%; */
+      box-sizing: border-box;
+    }}
